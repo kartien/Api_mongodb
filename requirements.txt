@@ -34,4 +34,3 @@ traitlets==5.1.1
 typing_extensions==4.0.1
 uvicorn==0.17.0.post1
 wcwidth==0.2.5
-yapf @ file:///tmp/build/80754af9/yapf_1615749224965/work
